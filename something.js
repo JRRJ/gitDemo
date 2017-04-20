@@ -15,6 +15,7 @@ var maliaFunction = function() {
 }
 
 var mattFunction = function() {
+  var color = "awesome";
 
 }
 
