@@ -1,4 +1,6 @@
 var camilaFunction = function() {
+//test
+//testes
 
 }
 
@@ -16,6 +18,7 @@ var maliaFunction = function() {
 
 var mattFunction = function() {
   var color = "awesome";
+  // this is from Matt
 
 }
 
